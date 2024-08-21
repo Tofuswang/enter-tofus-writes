@@ -9,8 +9,6 @@ Tofus writes 是 Tofus 存放寫作資料的地方，可以理解為紀錄完整
 
 檔案名稱：（你的姓名）
 
-偏好受邀方式：（提供 GitHub username 或 email）
-
 從哪裡知道 Tofus 的？：（社群媒體或線下活動，亦或者是奇怪的地方）
 
 有和 Tofus 線下見過面嗎？：（是/否)
